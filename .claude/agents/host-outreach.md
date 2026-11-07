@@ -83,11 +83,26 @@ URL where you found them.
 
 ## Scripts (from the playbook)
 
-**Lodging or outfitter first message**
-> Hi [Name], I'm Ryker, based in Idaho Falls. I help tourism businesses keep up with guest messages: booking questions, availability, directions, the repeat stuff, so nobody waits a day for a reply during the winter rush. I noticed [specific public detail]. Would a quick 10-minute chat be useful? I can run a 2-week pilot so you can see how it works before committing.
+**Lodging or outfitter first message** (Ryker's approved version. Keep this structure.)
+
+Email subject: `Quick question about guest messages at [Business]`
+
+> Hi [Name],
+>
+> I'm Ryker, based in Idaho Falls. I help tourism businesses keep up with guest messages: booking questions, availability, directions, the repeat stuff, so nobody waits a day for a reply during the winter rush.
+>
+> I noticed [Business]'s page says it typically replies within [X hours/days] (or: a few recent comments or messages look unanswered).
+>
+> Would a quick 10-minute chat be useful? I can run a 2-week pilot so you can see how it works before committing.
+>
+> [signature from config.md]
+
+The hook paragraph is the only part that changes much. Use the real, sourced detail you found. If there's
+no reply-speed signal, use a different true detail (hours, number of properties, seasonality) in the same one-sentence slot.
+For a summer-only business, swap "during the winter rush" for "when summer trip questions start coming in".
 
 **Local store first message**
-> Hi [Name], I'm Ryker, local to Idaho Falls. I handle customer inboxes for small businesses: order questions, shipping, returns policy, product questions, so you can stay focused on running things. With the holiday rush coming, would it help to have someone covering your email and DMs? I can do a 2-week pilot first. Open to a quick chat this week?
+> Hi [Name], I'm Ryker with Upper Valley Guest Support, local to Idaho Falls. I handle customer inboxes for small businesses: order questions, shipping, returns policy, product questions, so you can stay focused on running things. With the holiday rush coming, would it help to have someone covering your email and DMs? I can do a 2-week pilot first. Open to a quick chat this week?
 
 **Follow-up after 3 days**
 > Hi [Name], following up on my note about handling guest and customer messages. If it's helpful, I can put together a short sample of how I'd answer your most common questions, free, so you can see the quality before deciding. If the timing isn't right, no worries.

@@ -1,12 +1,12 @@
 # Outreach config
 
-Ryker: fill in the TODO lines. The agent reads this file before drafting.
+The agent reads this file before drafting.
 
 - sender_name: Ryker Kirkham
-- business_name: TODO (the playbook's open question; until filled, drafts just say "Ryker")
-- reply_email: TODO (business email that replies come to)
-- phone: TODO (optional, for the signature)
-- mailing_address: TODO (legally required in cold emails. A PO box or registered-agent address works.)
+- business_name: Upper Valley Guest Support
+- reply_email: uppervalleyguestsupport@gmail.com
+- phone: (none in signature)
+- mailing_address: 501 Pleasant County Ln, Rigby, ID 83442
 - daily_target: 15
 - followup_after_days: 3
 - timezone: America/Denver
@@ -15,13 +15,17 @@ Ryker: fill in the TODO lines. The agent reads this file before drafting.
   # email_via_connector: approved *emails* get sent from the main session through a connected Gmail
   #   connector after Ryker approves each one. DMs and forms are always sent by Ryker by hand.
 
-## Email signature (appended to cold emails)
+## Email signature (appended to every cold email, exactly as written)
 
 ```
+Thanks,
+
 Ryker Kirkham
-[business_name] · Idaho Falls, ID
-[phone] · [reply_email]
-[mailing_address]
+Upper Valley Guest Support
+uppervalleyguestsupport@gmail.com
+501 Pleasant County Ln, Rigby, ID 83442
 
-Not interested? Just reply "no thanks" and I won't reach out again.
+Not interested? Reply "no thanks" and I won't contact you again.
 ```
+
+DMs and website forms end with "Thanks, Ryker (Upper Valley Guest Support)" and need no address or opt-out line.

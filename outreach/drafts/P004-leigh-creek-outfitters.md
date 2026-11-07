@@ -1,24 +1,28 @@
 # Leigh Creek Outfitters — first message
 - Tracker id: P004
 - Channel: Email
-- Send to: leighcreekoutfitters@gmail.com
-- Owner name: Derek (source: https://leighcreekoutfitters.com/contact ; also https://app.advcollective.com/local-experts/horseback-riding-grand-targhee-leigh-creek-outfitters, which says "Owner and lifelong local Derek Beard")
-- Hook: "small, family-run guide service" (source: https://app.advcollective.com/local-experts/horseback-riding-grand-targhee-leigh-creek-outfitters ; https://leighcreekoutfitters.com/about)
-- Confidence: medium (two independent sources name Derek Beard as owner and the email is on the official contact page, but I saw these through search results because the site would not load directly. The hook is weak but true.)
+- Send to: leighcreekoutfitters@gmail.com (confirmed on https://leighcreekoutfitters.com/contact, 2026-11-07)
+- Owner name: Derek ("Owner and wrangler, Derek Beard", https://leighcreekoutfitters.com/about; contact page lists "Derek, Owner" for pack trips and "Alexis, Client Manager" for trail rides)
+- Hook: "we are a small owner operated company" (source: https://leighcreekoutfitters.com/about)
+- Confidence: high for email and owner, medium for fit (summer outfitter; Alexis already handles trail-ride questions). Facebook not checked (needs login).
 
 ## Subject (email only)
-Help with guest messages for Leigh Creek Outfitters
+Quick question about guest messages at Leigh Creek Outfitters
 
 ## Message
 Hi Derek,
 
-I'm Ryker, based in Idaho Falls. I help tourism businesses keep up with guest messages: booking questions, availability, what to bring, the repeat stuff, so nobody waits a day for a reply.
+I'm Ryker, based in Idaho Falls. I help tourism businesses keep up with guest messages: booking questions, availability, what to bring, the repeat stuff, so nobody waits a day for a reply when summer trip questions start coming in.
 
-I noticed Leigh Creek is a small, family-run guide service, and summer trip questions usually start coming in after the new year. Would a quick 10-minute chat be useful? I can run a 2-week pilot so you can see how it works before committing.
+I noticed your site says you're a small owner-operated company, so I'm guessing the same people guiding rides and pack trips are also answering the inbox. I could cover the email and messages so riders hear back the same evening.
+
+Would a quick 10-minute chat be useful? I can run a 2-week pilot so you can see how it works before committing.
+
+Thanks,
 
 Ryker Kirkham
-[TODO business_name] · Idaho Falls, ID
-[TODO phone, optional] · [TODO reply_email]
-[TODO mailing_address, legally required before sending]
+Upper Valley Guest Support
+uppervalleyguestsupport@gmail.com
+501 Pleasant County Ln, Rigby, ID 83442
 
-Not interested? Just reply "no thanks" and I won't reach out again.
+Not interested? Reply "no thanks" and I won't contact you again.

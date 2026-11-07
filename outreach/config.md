@@ -10,8 +10,8 @@ The agent reads this file before drafting.
 - daily_target: 15
 - followup_after_days: 3
 - timezone: America/Denver
-- send_mode: draft_only
-  # draft_only: Ryker sends every approved message by hand (copy and paste). Default.
+- send_mode: email_via_connector
+  # draft_only: Ryker sends every approved message by hand (copy and paste).
   # email_via_connector: approved *emails* get sent from the main session through a connected Gmail
   #   connector after Ryker approves each one. DMs and forms are always sent by Ryker by hand.
 
@@ -29,3 +29,10 @@ Not interested? Reply "no thanks" and I won't contact you again.
 ```
 
 DMs and website forms end with "Thanks, Ryker (Upper Valley Guest Support)" and need no address or opt-out line.
+
+## Gmail connector notes
+
+- Connected account must be uppervalleyguestsupport@gmail.com. Before the first send in a session, confirm the connector's account matches `reply_email`. If it doesn't, stop and tell Ryker.
+- Every email still needs Ryker's per-message approval. The connector only removes the copy-paste step.
+- If the connector can only create drafts, put each approved email in Gmail Drafts, tell Ryker it's ready to send, and mark it `sent` only after Ryker confirms.
+- If no Gmail connector is available in the session, fall back to draft_only.

@@ -27,3 +27,6 @@ uppervalleyguestsupport@gmail.com
 501 Pleasant County Ln, Rigby, ID 83442
 
 Not interested? Reply "no thanks" and I won't contact you again.
+
+## Sent
+- Sent 2026-11-09 via Gmail connector from uppervalleyguestsupport@gmail.com (message id 1a1c0939a0269538)

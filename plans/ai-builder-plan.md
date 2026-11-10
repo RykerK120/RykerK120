@@ -1,7 +1,38 @@
-# Plan: "The AI guy" for small businesses in eastern Idaho
+# Plan: Herohub job + "the AI guy" for lodging and tourism on the side
 
 Status: **DRAFT for Ryker's approval.** Nothing here changes the Business Playbook, prices, or offers until Ryker says yes.
 Written: 2026-11-10, from the strengths interview.
+
+## Option A (leading): Herohub job + AI builder on the side
+
+Ryker interviewed with Herohub before, did well, and the final interview never got scheduled.
+Ryker will contact them directly.
+
+**The job (from memory, confirm before accepting):**
+- B2B business development, in person in Rexburg, 8 AM to 3 PM
+- Base about $15-16/hr (about $2,300-2,400/mo), plus $500-1,000 commission **per sale**, plus a share of a monthly pool based on performance
+- Quota about 2 sales/mo (probably the minimum)
+- Inbound leads and demos (strong fit), plus outbound calls to powersports dealership partners
+
+| Sales/mo | Total before pool |
+|---|---|
+| 2 | about $3,300-4,400 |
+| 3 | about $3,800-5,400 (in the $4-5K quit range) |
+| 4 | about $4,300-6,400 |
+
+**Why it fits:** paid sales training, closing small-business software deals, desk work instead of physical work, benefits, and done by 3 PM.
+
+**Side business under option A:**
+- **Niche: lodging and tourism only.** Inns, cabins and vacation rentals, Airbnb and VRBO hosts who run it as a business, lodges, guides and outfitters.
+- **Avoid entirely:** powersports dealers and anything powersports (snowmobile and ATV rental shops included), and any Herohub client, partner, or lead.
+- Never use Herohub time, tools, or contacts for the side business.
+- Side hours: about 3:30-6 PM on weekdays (owners are still reachable) plus weekend blocks. Start with the week 1 conversations, then 1 build/mo.
+
+**Before signing, confirm:**
+- [ ] Base pay and what first-year reps actually earn in total
+- [ ] Whether 2 sales/mo is the minimum, and what happens if you miss it
+- [ ] How the day splits between inbound, demos, and outbound calls
+- [ ] **Outside-work, non-compete, and non-solicit clauses.** If outside work isn't allowed, park the side business.
 
 ## Why this fits you (interview results)
 

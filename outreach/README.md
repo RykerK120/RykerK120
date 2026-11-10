@@ -1,5 +1,7 @@
 # Host outreach agent
 
+> **Moved (Nov 10, 2026):** Outreach now runs in the Guest Support Town (https://claude.ai/artifact/D7Ennyi7ugJcoiGpHM5vzH): prospects, drafts, approvals and sending all live there. `outreach/tracker.csv` is a frozen snapshot from Nov 9 and is no longer updated. Don't add new work to this repo.
+
 Finds lodging, outfitter and rental-shop owners in the Idaho Falls to Jackson area, drafts a personal
 first message for each one, and **waits for your approval** before anything goes out.
 

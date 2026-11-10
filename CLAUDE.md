@@ -1,5 +1,7 @@
 # Ryker's inbox-support business
 
+> **Moved (Nov 10, 2026):** Outreach now runs in the Guest Support Town (https://claude.ai/artifact/D7Ennyi7ugJcoiGpHM5vzH): prospects, drafts, approvals and sending all live there. `outreach/tracker.csv` is a frozen snapshot from Nov 9 and is no longer updated. Don't add new work to this repo.
+
 One-person service business: answering guest and customer messages (email, web chat,
 Facebook/Instagram DMs, vacation-rental platform messages) for small tourism and lodging
 businesses between Idaho Falls and Jackson. Started November 2026. Goal: 2 paying clients by Dec 31, 2026.
